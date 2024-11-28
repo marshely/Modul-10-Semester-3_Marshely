@@ -10,6 +10,7 @@ MODUL 10
 
 
 PENCARIAN NILAI MIN/MAX 
+
 Deskripsi Program 
 
 
@@ -28,6 +29,6 @@ Program ini merupakan program go yaitu untuk menginput jumlah ikan dan kapasitas
 No.3
 
 
-Program ini merupakan program go yaitu menghitung berat badan bayi dengan  mencari berat badan minimum, maksimum, dan rata-rata dari sekumpulan data yang dimasukkan oleh pengguna. Pertama, pengguna diminta  memasukkan  data total berat badan bayi. Selanjutnya, program menanyakan berat badan masing-masing bayi.  Data  disimpan dalam array "beratBalita", yang kemudian digunakan dalam dua fungsi utama. ``hitungMinMax'' untuk menghitung berat minimum dan maksimum, dan ``rata-rata'' untuk menghitung rata-rata berat badan bayi.Fungsi ``hitungMinMax'' menerima rentang bobot dan mencari nilai minimum dan maksimum, sedangkan fungsi ``rerata'' menjumlahkan bobot semua bayi dan membaginya berdasarkan kumpulan data untuk mencari rata-rata. Setelah penghitungan selesai, program menampilkan hasilnya berupa berat badan minimum bayi, berat badan maksimum, dan berat rata-rata. Program ini memungkinkan Anda memproses hingga 100 data berat badan bayi dan memberikan hasil yang mudah dipahami dalam format yang jelas.
+Program ini merupakan program go yaitu menghitung berat badan bayi dengan  mencari berat badan minimum, maksimum, dan rata-rata dari sekumpulan data yang dimasukkan oleh pengguna. Pertama, pengguna diminta  memasukkan  data total berat badan bayi. Selanjutnya, program menanyakan berat badan masing-masing bayi.  Data  disimpan dalam array "beratBalita", yang kemudian digunakan dalam dua fungsi utama. "hitungMinMax" untuk menghitung berat minimum dan maksimum, dan "rata-rata" untuk menghitung rata-rata berat badan bayi.Fungsi "hitungMinMax" menerima rentang bobot dan mencari nilai minimum dan maksimum, sedangkan fungsi "rerata" menjumlahkan bobot semua bayi dan membaginya berdasarkan kumpulan data untuk mencari rata-rata. Setelah penghitungan selesai, program menampilkan hasilnya berupa berat badan minimum bayi, berat badan maksimum, dan berat rata-rata. Program ini memungkinkan Anda memproses hingga 100 data berat badan bayi dan memberikan hasil yang mudah dipahami dalam format yang jelas.
 
 
